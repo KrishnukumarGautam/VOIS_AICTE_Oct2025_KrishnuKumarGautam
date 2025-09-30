@@ -55,9 +55,9 @@ Some hosts own a large share of total listings
 ✨ Author
 
 👨‍💻 Krishnu Kumar Gautam
-📧 krishnu.gautam@example.com
+📧 krishnu.gautam8@gmail.com
 
 🔗 LinkedIn
  | GitHub
 
-<p align="center">🚀 Made with ❤️ for VOIS AICTE Oct 2025</p> ```
+<p align="center">🚀 Made with ❤️ for VOIS AICTE Oct 2025</p> 

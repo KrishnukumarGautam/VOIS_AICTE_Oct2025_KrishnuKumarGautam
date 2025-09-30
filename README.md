@@ -39,13 +39,8 @@ The aim is to apply **Data Science & Machine Learning** techniques to explore an
 
 1. Clone this repository  
    ```bash
-   git clone https://krishnukumargautam/VOIS_AICTE_Oct2025.git
+   git clone https://KrishnuKumarGautam/VOIS_AICTE_Oct2025.git
    cd VOIS_AICTE_Oct2025
-📸 Sample Visualizations
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" width="300"/>
-  <img src="https://upload.wikimedia.org/commons/0/05/Scikit_learn_logo_small.svg" width="300"/>
-</p>
 
 🏆 Results & Insights
 

@@ -1,1 +1,64 @@
-# VOIS_AICTE_Oct2025_KrishnuKumarGautam
+<h1 align="center">✨ VOIS_AICTE_Oct2025 ✨</h1>
+<h2 align="center">Krishnu Kumar Gautam</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/452/external-airbnb-hotel-services-flaticons-lineal-color-flat-icons.png" width="120"/>
+</p>
+
+# VOIS_AICTE_Oct2025_KrishnuKumarGautam  
+
+## 🌟 Project Overview  
+This project analyzes **Airbnb Open Data** to uncover insights about:  
+- Property types  
+- Neighbourhood trends  
+- Host behaviors  
+- Pricing strategies  
+- Review ratings  
+
+The aim is to apply **Data Science & Machine Learning** techniques to explore and visualize the dataset for actionable insights
+
+## 📊 Key Features  
+✔️ Cleaned and pre-processed raw Airbnb data  
+✔️ Detailed **Exploratory Data Analysis (EDA)** with visualizations  
+✔️ Insights into host verification, reviews, availability, and pricing  
+✔️ Automated **summary report generation**  
+✔️ Ready-to-use **Google Colab Notebook**  
+
+## 🛠️ Tech Stack  
+- **Python 3.10+**  
+- **Pandas, NumPy** → Data handling  
+- **Matplotlib, Seaborn** → Visualizations  
+- **Scikit-learn** → Data preprocessing  
+- **Google Colab** → Execution environment  
+
+## 📂 Dataset  
+- **Name:** `Airbnb_Open_Data.xlsx`  
+- **Source:** Provided dataset for VOIS AICTE Project
+
+## 🚀 How to Run  
+
+1. Clone this repository  
+   ```bash
+   git clone https://krishnukumargautam/VOIS_AICTE_Oct2025.git
+   cd VOIS_AICTE_Oct2025
+📸 Sample Visualizations
+<p align="center"> <img src="https://user-images.githubusercontent.com/91543088/136692903-6e093b58-bc76-401b-a1e4-d9387dbf62dd.png" width="400"/> <img src="https://user-images.githubusercontent.com/91543088/136692905-b0b89b71-8e6e-4e86-b41e-4dcf0a2d44da.png" width="400"/> </p>
+🏆 Results & Insights
+
+Most listings are concentrated in a few neighbourhoods
+
+Verified hosts generally have stronger reputations
+
+Higher prices often correlate with higher service fees
+
+Some hosts own a large share of total listings
+
+✨ Author
+
+👨‍💻 Krishnu Kumar Gautam
+📧 krishnu.gautam@example.com
+
+🔗 LinkedIn
+ | GitHub
+
+<p align="center">🚀 Made with ❤️ for VOIS AICTE Oct 2025</p> ```

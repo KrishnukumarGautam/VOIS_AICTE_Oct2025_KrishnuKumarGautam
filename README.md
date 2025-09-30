@@ -2,7 +2,7 @@
 <h2 align="center">Krishnu Kumar Gautam</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/452/external-airbnb-hotel-services-flaticons-lineal-color-flat-icons.png" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" width="150"/>
 </p>
 
 # VOIS_AICTE_Oct2025_KrishnuKumarGautam  

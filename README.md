@@ -42,7 +42,11 @@ The aim is to apply **Data Science & Machine Learning** techniques to explore an
    git clone https://krishnukumargautam/VOIS_AICTE_Oct2025.git
    cd VOIS_AICTE_Oct2025
 📸 Sample Visualizations
-<p align="center"> <img src="https://user-images.githubusercontent.com/91543088/136692903-6e093b58-bc76-401b-a1e4-d9387dbf62dd.png" width="400"/> <img src="https://user-images.githubusercontent.com/91543088/136692905-b0b89b71-8e6e-4e86-b41e-4dcf0a2d44da.png" width="400"/> </p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg" width="300"/>
+  <img src="https://upload.wikimedia.org/commons/0/05/Scikit_learn_logo_small.svg" width="300"/>
+</p>
+
 🏆 Results & Insights
 
 Most listings are concentrated in a few neighbourhoods
